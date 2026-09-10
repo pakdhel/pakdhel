@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:22C55E&height=220&section=header&text=Hi%20There,%20I'm%20pakdhel%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20in%20progress%20%7C%20LoRa%20Researcher%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,100:0A66C2&height=220&section=header&text=Fadhel%20Hayat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Software%20%7C%20IoT%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Undergraduate+Thesis+%7C+LoRa+SX1276+Network+Performance;Aspiring+Flutter+%2F+Mobile+Developer;Building+Habitly+-+A+Flutter+Habit+Tracker;Exploring+Embedded+Systems+%26+ESP32" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&background=0A0F1C00&center=true&vCenter=true&width=650&lines=Full-stack+Developer+%7C+Flutter+%2F+Next.js+%2F+IoT;Undergraduate+Thesis+%7C+LoRa+SX1276+Network+Performance;Building+Habitly+-+A+Flutter+Habit+Tracker;Exploring+Embedded+Systems+%26+ESP32" alt="Typing SVG" />
+
+<br>
+
+<a href="https://fadhelhayat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/pakdhel"><img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -11,7 +16,7 @@
 ## 🧭 About Me
 
 - 🎓 Currently working on my **undergraduate thesis (skripsi)** analyzing **LoRa network performance** — diving deep into the **SX1276 module**, and how **Spreading Factor (SF)** & **Bandwidth (BW)** affect energy consumption, RSSI, SNR, and PDR.
-- 📱 On a journey to become a **Mobile Developer**, currently specializing in **Flutter**.
+- 📱 Full-stack developer specializing in **IoT**, **mobile apps with Flutter**, and **web development with Next.js**.
 - 🛠️ Actively building **[Habitly](https://github.com/pakdhel/habitly-app-flutter)** — a habit-tracking app built as both a learning project and a portfolio piece.
 - 📡 Also enjoy tinkering with **embedded systems** — microcontrollers like the **ESP32** and sensor projects on the side.
 
@@ -22,7 +27,7 @@
 <div align="center">
 
 <a href="https://github.com/pakdhel/habitly-app-flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pakdhel&repo=habitly-app-flutter&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pakdhel&repo=habitly-app-flutter&theme=midnight-purple&bg_color=0A0F1C&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&hide_border=true" />
 </a>
 
 </div>
@@ -35,27 +40,34 @@
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0A0F1C?style=for-the-badge&logo=flutter&logoColor=0A66C2)
+![Dart](https://img.shields.io/badge/Dart-0A0F1C?style=for-the-badge&logo=dart&logoColor=0A66C2)
+![Next.js](https://img.shields.io/badge/Next.js-0A0F1C?style=for-the-badge&logo=nextdotjs&logoColor=0A66C2)
+![Firebase](https://img.shields.io/badge/Firebase-0A0F1C?style=for-the-badge&logo=firebase&logoColor=0A66C2)
+![Figma](https://img.shields.io/badge/Figma-0A0F1C?style=for-the-badge&logo=figma&logoColor=0A66C2)
+![ESP32](https://img.shields.io/badge/ESP32-0A0F1C?style=for-the-badge&logo=espressif&logoColor=0A66C2)
+![Arduino](https://img.shields.io/badge/Arduino-0A0F1C?style=for-the-badge&logo=arduino&logoColor=0A66C2)
+![Git](https://img.shields.io/badge/Git-0A0F1C?style=for-the-badge&logo=git&logoColor=0A66C2)
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pakdhel&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pakdhel&theme=algolia&hide_border=true" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=pakdhel&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakdhel&layout=compact&theme=algolia&hide_border=true" width="60%" />
+</div>
+
+<br>
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pakdhel&theme=react-dark&bg_color=0A0F1C&color=0A66C2&line=0A66C2&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -76,11 +88,11 @@
 
 <div align="center">
 
+<a href="https://fadhelhayat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <!-- Update these links with your actual profiles -->
-<a href="https://github.com/pakdhel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-0A0F1C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0F766E&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A0F1C&height=100&section=footer" width="100%"/>
