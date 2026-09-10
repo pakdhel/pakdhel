@@ -68,9 +68,9 @@
 
 <div align="center">
 
-<a href="https://fadhelhayat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>https://fadhelhayat.vercel.app/</a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>https://www.linkedin.com/in/muhammad-fadhel-h/</a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-0A0F1C?style=for-the-badge&logo=instagram&logoColor=white"/>https://www.instagram.com/pakdhell/</a>
+<a href="https://fadhelhayat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-fadhel-h/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/pakdhell/"><img src="https://img.shields.io/badge/Instagram-0A0F1C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
