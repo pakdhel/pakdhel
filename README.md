@@ -22,20 +22,6 @@
 
 <br>
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/pakdhel/habitly-app-flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pakdhel&repo=habitly-app-flutter&theme=midnight-purple&bg_color=0A0F1C&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&hide_border=true" />
-</a>
-
-</div>
-
-**Habitly** — a habit-tracker app built with Flutter, featuring manual JWT auth (no Firebase Auth), Riverpod for state management, and a clean custom UI (onboarding, stats, habit creation with icon/frequency/color pickers). Currently learning auth flows with DummyJSON before migrating to Supabase for real habit data.
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
