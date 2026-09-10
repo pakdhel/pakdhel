@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=220&section=header&text=Hi%20There,%20I'm%20pakdhel%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20in%20progress%20%7C%20LoRa%20Researcher%20%7C%20&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=220&section=header&text=Hi%20There,%20I'm%20pakdhel%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20in%20progress%20%7C%20LoRa%20Researcher%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Undergraduate+Thesis+%7C+LoRa+SX1276+Network+Performance;+Practitioner;Aspiring+Flutter+%2F+Mobile+Developer;Building+Habitly+-+A+Flutter+Habit+Tracker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Undergraduate+Thesis+%7C+LoRa+SX1276+Network+Performance;Aspiring+Flutter+%2F+Mobile+Developer;Building+Habitly+-+A+Flutter+Habit+Tracker;Exploring+Embedded+Systems+%26+ESP32" alt="Typing SVG" />
 
 </div>
 
