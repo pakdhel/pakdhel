@@ -53,31 +53,11 @@
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pakdhel&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
-
-</div>
-
-<br>
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pakdhel&theme=react-dark&bg_color=0A0F1C&color=0A66C2&line=0A66C2&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
 ## 🌱 Currently
 
 ```text
 🔭 Research   : LoRa SX1276 network performance (SF, BW, RSSI, SNR, PDR)
-💻 Building   : Habitly — Flutter habit tracker
+💻 Building   : Habitly — Flutter habit tracker, Tracelog - Flutter location tracker
 📖 Learning   : JWT auth, Riverpod, Supabase, CI/CD for mobile apps
 🎯 Goal       : Land a role as a Flutter / Mobile Developer
 ```
@@ -88,10 +68,9 @@
 
 <div align="center">
 
-<a href="https://fadhelhayat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<!-- Update these links with your actual profiles -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-0A0F1C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://fadhelhayat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>https://fadhelhayat.vercel.app/</a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>https://www.linkedin.com/in/muhammad-fadhel-h/</a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-0A0F1C?style=for-the-badge&logo=instagram&logoColor=white"/>https://www.instagram.com/pakdhell/</a>
 
 </div>
 
