@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,100:0A66C2&height=220&section=header&text=Fadhel%20Hayat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Software%20%7C%20IoT%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&background=0A0F1C00&center=true&vCenter=true&width=650&lines=Full-stack+Developer+%7C+Flutter+%2F+Next.js+%2F+IoT;Undergraduate+Thesis+%7C+LoRa+SX1276+Network+Performance;Building+Habitly+-+A+Flutter+Habit+Tracker;Exploring+Embedded+Systems+%26+ESP32" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&background=0A0F1C00&center=true&vCenter=true&width=650&lines=Flutter+%2F+Next.js+%2F+IoT;Undergraduate+Thesis+%7C+LoRa+SX1276+Network+Performance;Building+Habitly+-+A+Flutter+Habit+Tracker;Exploring+Embedded+Systems+%26+ESP32" alt="Typing SVG" />
 
 <br>
 
@@ -17,7 +17,6 @@
 
 - 🎓 Currently working on my **undergraduate thesis (skripsi)** analyzing **LoRa network performance** — diving deep into the **SX1276 module**, and how **Spreading Factor (SF)** & **Bandwidth (BW)** affect energy consumption, RSSI, SNR, and PDR.
 - 📱 Full-stack developer specializing in **IoT**, **mobile apps with Flutter**, and **web development with Next.js**.
-- 🛠️ Actively building **[Habitly](https://github.com/pakdhel/habitly-app-flutter)** — a habit-tracking app built as both a learning project and a portfolio piece.
 - 📡 Also enjoy tinkering with **embedded systems** — microcontrollers like the **ESP32** and sensor projects on the side.
 
 <br>
